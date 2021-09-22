@@ -1,3 +1,4 @@
+from ._asymmetric import Asymmetric
 from ._permutation import Permutation
 from ._partition import Partition
 from ._tree import Tree
